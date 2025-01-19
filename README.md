@@ -73,7 +73,7 @@ PORT=5000
 Run the following command to start the server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 The server will be running on port `5000` (or the port specified in `.env`).
