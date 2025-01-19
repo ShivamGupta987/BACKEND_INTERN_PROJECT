@@ -1,0 +1,27 @@
+# Ignore .env file
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore temporary files and directories
+*.log
+*.tmp
+*.pid
+*.lock
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore editor-specific files
+*.suo
+*.user
+*.sln
+*.csproj
+*.vspscc
+*.scc
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
